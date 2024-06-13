@@ -6,17 +6,15 @@ Os dados foram importados de duas planilhas do Excel, uma contendo informações
 Inicialmente, os dados foram limpos e tratados, removendo valores nulos e substituindo valores incorretos. 
 Em seguida, foram realizadas análises para identificar: 
 
-#
+1. Departamentos com mais vendas.
 
-1.Departamentos com mais vendas.
+2. Média de preço por departamento.
 
-2.Média de preço por departamento.
+3. Quantidade de vendas por mês.
 
-3.Quantidade de vendas por mês.
+4. Média de renda dos clientes por canal de venda.
 
-4.Média de renda dos clientes por canal de venda.
-
-5.Média de idade dos clientes por bandeira.
+5. Média de idade dos clientes por bandeira.
 
 #
 
